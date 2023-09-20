@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Dimitar Stoymirov
-- 💻 new to software engineer, excited to get better! Currently a SoftUni student!
-- 🎸🎹 6 years classical guitar experience and 4 years piano!
-- 💬Ich interesiere mich für Sprachen und ich lerne jetzt Deutsch!
+- 💻 New to software engineer, excited to get better! Currently a SoftUni student!
+- 🎸 6 years classical guitar experience and 4 years piano!🎹
+- 💬 Ich interesiere mich für Sprachen und ich lerne jetzt Deutsch!
+- 
   
 
 <!---
