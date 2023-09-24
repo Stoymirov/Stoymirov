@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Dimitar!
-#### I am a motivated new software developer!
+#### I am a new and motivated software developer!
 
 
 - 💻 New to software engineer, excited to get better! Currently a SoftUni student!
