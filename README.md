@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Dimitar!
 #### I am a motivated new software developer!
-![I am a motivated new software developer!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 - 💻 New to software engineer, excited to get better! Currently a SoftUni student!
 - 🎸 6 years classical guitar experience and 4 years piano!🎹
