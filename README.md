@@ -3,10 +3,10 @@
 
 
 - 💻 New to software engineer, excited to get better! Currently a SoftUni student!
-- 🎸 6 years classical guitar experience and 4 years piano!🎹
-- 💬 Ich interesiere mich für Sprachen und ich lerne jetzt Deutsch!
+- 🎸 Classical guitarist and pianist!🎹
+- 💬 Ich interesiere mich für Sprachen und kann fließend Deutch!
 - 🥸 Physosophy olympiad national laureate!
-- ✖️11-th grade studying maths!➖
+- ✖️ Data science freshman!➖
 
 Skills: yet to be developed...
 
