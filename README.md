@@ -1,12 +1,12 @@
-### Hi there 👋, my name is Dimitar!
-#### I am a new and motivated software developer!
+### Hi, my name is Dimitar!
+#### Data science, software engineering!
 
 
-- 💻 New to software engineer, excited to get better! Currently a SoftUni student!
+- ✖️ Data science university student!➖
 - 🎸 Classical guitarist and pianist!🎹
 - 💬 Ich interesiere mich für Sprachen und kann fließend Deutch!
 - 🥸 Physosophy olympiad national laureate!
-- ✖️ Data science freshman!➖
+
 
 Skills: yet to be developed...
 
